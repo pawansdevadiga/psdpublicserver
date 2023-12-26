@@ -1,0 +1,4 @@
+-Remember to install pynput module.
+-code    pip install pynput.
+-Sometimes, when working with Python in Visual Studio Code, if Notepad is opened and not selected, you have to click on Notepad.
+-After Python finishes saving the html file, remember to take note of the file's saved location.
