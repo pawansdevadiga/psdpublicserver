@@ -1,0 +1,4 @@
+-Remember this code does not work on turbo C++ version.
+-If you want run this code on turbo C++ then replace iostream with iostream.h at line 1, remove using namespace std at line 2; and replace int main() with void main at line 4 and the run in turbo C++
+-If you want run code in this verison of g++ (C++) then install g++.exe (MinGW.org GCC-6.3.0-1) 6.3.0 or search for youtube how to install it.
+-or your run this code in online compilers like https://www.onlinegdb.com/online_c++_compiler
